@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fake {
+    font-size: 45px;
+    color: red;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
